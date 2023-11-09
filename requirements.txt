@@ -1,0 +1,12 @@
+Django==4.2
+psycopg2-binary==2.9.6
+postgres==4.0
+celery[redis]==5.2.7
+Pillow==9.5.0
+django-money==3.1.0
+django-crispy-forms==2.0
+crispy-bootstrap4==2022.1
+beautifulsoup4==4.12.2
+django-bootstrap4==23.1
+soupsieve==2.4.1
+
